@@ -13,7 +13,8 @@ Nodejs >= 6.0
 
 
 ## usage
-npm test runs the test "sum.test.js"
+```npm test``` 
+runs the test "sum.test.js"
 
 * see sum.js for details.
 
