@@ -1,0 +1,13 @@
+/* istanbul ignore next */'use strict';
+
+
+var /* istanbul ignore next */_sum = require('./sum'); /* istanbul ignore next */var _sum2 = _interopRequireDefault(_sum);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+
+test('1 + 2 = 3', function ()
+{
+  var inst = new /* istanbul ignore next */_sum2.default(1, 2);
+  inst.sum(1, 2);
+
+}); /**
+     * Created by pboethig on 07.12.16.
+     */

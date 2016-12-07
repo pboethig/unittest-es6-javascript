@@ -1,0 +1,1 @@
+{"clocks":{},"files":{"/var/www/html/babel3/package.json":["ject",1481076796311,1,[]],"/var/www/html/babel3/sum.test.js":["",1481077771757,1,["./sum"]],"/var/www/html/babel3/Test2.js":["",1481077707381,1,[]],"/var/www/html/babel3/sum.js":["",1481077659489,1,["./Test2.js"]]},"map":{"ject":{"g":["/var/www/html/babel3/package.json",1]}},"mocks":{}}
